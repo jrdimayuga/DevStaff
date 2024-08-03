@@ -1,0 +1,14 @@
+com\devstaff\FarmCollector_DevStaff\FarmCollector_DevStaffApplication.class
+com\devstaff\entity\Crops.class
+com\devstaff\dao\HibernateUtil.class
+com\devstaff\dao\PlantedDAO.class
+com\devstaff\delegate\PlantedDelegate.class
+com\devstaff\entity\Farmer.class
+com\devstaff\controller\HarvestedController.class
+com\devstaff\dao\HarvestedDAO.class
+com\devstaff\delegate\HarvestDelegate.class
+com\devstaff\FarmCollector_DevStaff\ServletInitializer.class
+com\devstaff\entity\Harvest.class
+com\devstaff\entity\FarmField.class
+com\devstaff\entity\Planted.class
+com\devstaff\controller\PlantedController.class
